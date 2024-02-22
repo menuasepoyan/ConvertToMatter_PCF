@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rU0PrtPG1Pc15gViiKHgVbkRP/xRy5XilNZ+VYOV7B6tKk3+HkNpulQVCElsRSM3rXrzhdsbBi3D6y/ypYoMRw==",
+  "success": true,
+  "projectFilePath": "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\ConvertToMatter_PCF.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pankaj Pandey\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Pankaj Pandey\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Pankaj Pandey\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.8.5\\microsoft.powerapps.msbuild.pcf.1.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}

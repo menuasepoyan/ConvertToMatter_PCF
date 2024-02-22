@@ -1,0 +1,19 @@
+2022-02-03 01:04:54.558 - Info	
+Packing C:\LegalTrack\PCF\ConvertToMatter_PCF\obj\PowerAppsTools_lt\obj\Debug\Metadata to bin\Debug\PowerAppsTools_lt.zip
+
+2022-02-03 01:04:54.573 - Info	Processing Component: Entities
+2022-02-03 01:04:54.577 - Info	Processing Component: Roles
+2022-02-03 01:04:54.582 - Info	Processing Component: Workflows
+2022-02-03 01:04:54.582 - Info	Processing Component: FieldSecurityProfiles
+2022-02-03 01:04:54.583 - Info	Processing Component: Templates
+2022-02-03 01:04:54.584 - Info	Processing Component: EntityMaps
+2022-02-03 01:04:54.585 - Info	Processing Component: EntityRelationships
+2022-02-03 01:04:54.591 - Info	Processing Component: OrganizationSettings
+2022-02-03 01:04:54.593 - Info	Processing Component: optionsets
+2022-02-03 01:04:54.594 - Info	Processing Component: CustomControls
+2022-02-03 01:04:54.604 - Info	 - LegalTrack.converttomatter
+2022-02-03 01:04:54.612 - Info	Processing Component: SolutionPluginAssemblies
+2022-02-03 01:04:54.614 - Info	Processing Component: EntityDataProviders
+2022-02-03 01:04:54.795 - Info	
+Unmanaged Pack complete.
+

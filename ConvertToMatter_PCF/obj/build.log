@@ -1,0 +1,57 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  > pcf-project@1.0.0 clean C:\LegalTrack\PCF\ConvertToMatter_PCF
+  > pcf-scripts clean "--noColor" "--buildMode" "development" "--outDir" "C:\LegalTrack\PCF\ConvertToMatter_PCF\out\controls" "--buildSource" "MSBuild"
+  
+  [1:04:33 am] [clean]  Initializing...
+  [1:04:33 am] [clean]  Cleaning build outputs...
+  [1:04:33 am] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: bin\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_lt.zip
+  
+  > pcf-project@1.0.0 build C:\LegalTrack\PCF\ConvertToMatter_PCF
+  > pcf-scripts build "--noColor" "--buildMode" "development" "--outDir" "C:\LegalTrack\PCF\ConvertToMatter_PCF\out\controls" "--buildSource" "MSBuild"
+  
+  [1:04:37 am] [build]  Initializing...
+  [1:04:37 am] [build]  Validating manifest...
+  [1:04:37 am] [build]  Validating control...
+  [1:04:39 am] [build]  Generating manifest types...
+  [1:04:39 am] [build]  Generating design types...
+  [1:04:39 am] [build]  Compiling and bundling control...
+  Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  
+  Why you should do it regularly:
+  https://github.com/browserslist/browserslist#browsers-data-updating
+  [BABEL] Note: The code generator has deoptimised the styling of C:\LegalTrack\PCF\ConvertToMatter_PCF\node_modules\react-dom\cjs\react-dom.development.js as it exceeds the max of 500KB.
+  [Webpack stats]:
+  Hash: 3237f55b385567ec314e
+  Version: webpack 4.42.1
+  Time: 13700ms
+  Built at: 03/02/2022 1:04:52 am
+      Asset     Size  Chunks             Chunk Names
+  bundle.js  4.9 MiB    main  [emitted]  main
+  Entrypoint main = bundle.js
+  [./converttomatter/appConfig.tsx] 2.85 KiB {main} [built]
+  [./converttomatter/index.ts] 8.57 KiB {main} [built]
+  [./node_modules/object-assign/index.js] 2.17 KiB {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/ActivityItem.js] 48 bytes {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/Announced.js] 45 bytes {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/Autofill.js] 44 bytes {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/Breadcrumb.js] 46 bytes {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/Button.js] 42 bytes {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/ButtonGrid.js] 45 bytes {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/Calendar.js] 44 bytes {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/index.js] 2.57 KiB {main} [built]
+  [./node_modules/react-dom/cjs/react-dom.development.js] 647 KiB {main} [built]
+  [./node_modules/react-dom/index.js] 1.32 KiB {main} [built]
+  [./node_modules/react/cjs/react.development.js] 68.6 KiB {main} [built]
+  [./node_modules/react/index.js] 189 bytes {main} [built]
+      + 846 hidden modules
+  [1:04:53 am] [build]  Generating build outputs...
+  [1:04:53 am] [build]  Succeeded
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_lt.zip
+  Solution: bin\Debug\PowerAppsTools_lt.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.

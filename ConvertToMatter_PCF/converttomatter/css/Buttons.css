@@ -1,0 +1,22 @@
+.NGControls\.Buttons {
+    text-align: left;
+}
+
+.NGControls\.Buttons .icon-S{
+    font-size: 1em;
+}
+
+.NGControls\.Buttons .icon-M{
+    font-size: 2em;
+}
+.NGControls\.Buttons .icon-L{
+    font-size: 3em;
+    margin: 0px;
+}
+.NGControls\.Buttons .CustomButton{
+    flex-direction:column;
+}
+
+.NGControls\.Buttons button.is-disabled{
+    opacity: 0.2;
+}

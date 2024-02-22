@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\converttomatter\\converttomatter.cdsproj": {}
+  },
+  "projects": {
+    "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\converttomatter\\converttomatter.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\converttomatter\\converttomatter.cdsproj",
+        "projectName": "converttomatter",
+        "projectPath": "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\converttomatter\\converttomatter.cdsproj",
+        "packagesPath": "C:\\Users\\Pankaj Pandey\\.nuget\\packages\\",
+        "outputPath": "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\converttomatter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pankaj Pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\ConvertToMatter_PCF.pcfproj": {
+                "projectPath": "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\ConvertToMatter_PCF.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\ConvertToMatter_PCF.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\ConvertToMatter_PCF.pcfproj",
+        "projectName": "ConvertToMatter_PCF",
+        "projectPath": "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\ConvertToMatter_PCF.pcfproj",
+        "packagesPath": "C:\\Users\\Pankaj Pandey\\.nuget\\packages\\",
+        "outputPath": "C:\\LegalTrack\\PCF\\ConvertToMatter_PCF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pankaj Pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

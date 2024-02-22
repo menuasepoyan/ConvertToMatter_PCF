@@ -1,0 +1,2 @@
+C:\LegalTrack\PCF\ConvertToMatter_PCF\obj\Debug\ConvertToMatter_PCF.pcfproj.AssemblyReference.cache
+C:\LegalTrack\PCF\ConvertToMatter_PCF\obj\Debug\ConvertToMatter_PCF.pcfproj.CoreCompileInputs.cache

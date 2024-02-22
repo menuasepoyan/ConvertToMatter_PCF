@@ -1,0 +1,57 @@
+2021-07-24 00:52:45.309 - Info	
+Packing C:\LegalTrack\PCF\ConvertToMatter_PCF\converttomatter\obj\Debug\Metadata to bin\Debug\converttomatter.zip
+
+2021-07-24 00:52:45.325 - Info	Processing Component: Entities
+2021-07-24 00:52:45.325 - Info	Processing Component: Roles
+2021-07-24 00:52:45.325 - Info	Processing Component: Workflows
+2021-07-24 00:52:45.325 - Info	Processing Component: FieldSecurityProfiles
+2021-07-24 00:52:45.341 - Info	Processing Component: Templates
+2021-07-24 00:52:45.341 - Info	Processing Component: EntityMaps
+2021-07-24 00:52:45.341 - Info	Processing Component: EntityRelationships
+2021-07-24 00:52:45.341 - Info	Processing Component: OrganizationSettings
+2021-07-24 00:52:45.341 - Info	Processing Component: optionsets
+2021-07-24 00:52:45.341 - Info	Processing Component: CustomControls
+2021-07-24 00:52:45.358 - Info	 - LegalTrack.converttomatter
+2021-07-24 00:52:45.358 - Info	Processing Component: SolutionPluginAssemblies
+2021-07-24 00:52:45.358 - Info	Processing Component: EntityDataProviders
+2021-07-24 00:52:45.567 - Info	
+Unmanaged Pack complete.
+
+2021-12-22 01:22:18.735 - Info	
+Packing C:\LegalTrack\PCF\ConvertToMatter_PCF\converttomatter\obj\Debug\Metadata to bin\Debug\converttomatter.zip
+
+2021-12-22 01:22:18.768 - Info	Processing Component: Entities
+2021-12-22 01:22:18.782 - Info	Processing Component: Roles
+2021-12-22 01:22:18.791 - Info	Processing Component: Workflows
+2021-12-22 01:22:18.796 - Info	Processing Component: FieldSecurityProfiles
+2021-12-22 01:22:18.799 - Info	Processing Component: Templates
+2021-12-22 01:22:18.802 - Info	Processing Component: EntityMaps
+2021-12-22 01:22:18.804 - Info	Processing Component: EntityRelationships
+2021-12-22 01:22:18.825 - Info	Processing Component: OrganizationSettings
+2021-12-22 01:22:18.830 - Info	Processing Component: optionsets
+2021-12-22 01:22:18.832 - Info	Processing Component: CustomControls
+2021-12-22 01:22:18.859 - Info	 - LegalTrack.converttomatter
+2021-12-22 01:22:18.875 - Info	Processing Component: SolutionPluginAssemblies
+2021-12-22 01:22:18.878 - Info	Processing Component: EntityDataProviders
+2021-12-22 01:22:19.169 - Info	
+Unmanaged Pack complete.
+
+2022-02-03 01:02:31.701 - Info	
+Packing C:\LegalTrack\PCF\ConvertToMatter_PCF\converttomatter\obj\Debug\Metadata to bin\Debug\converttomatter.zip
+
+2022-02-03 01:02:31.718 - Info	Processing Component: Entities
+2022-02-03 01:02:31.724 - Info	Processing Component: Roles
+2022-02-03 01:02:31.729 - Info	Processing Component: Workflows
+2022-02-03 01:02:31.730 - Info	Processing Component: FieldSecurityProfiles
+2022-02-03 01:02:31.731 - Info	Processing Component: Templates
+2022-02-03 01:02:31.732 - Info	Processing Component: EntityMaps
+2022-02-03 01:02:31.733 - Info	Processing Component: EntityRelationships
+2022-02-03 01:02:31.740 - Info	Processing Component: OrganizationSettings
+2022-02-03 01:02:31.743 - Info	Processing Component: optionsets
+2022-02-03 01:02:31.744 - Info	Processing Component: CustomControls
+2022-02-03 01:02:31.751 - Info	 - LegalTrack.converttomatter
+2022-02-03 01:02:31.759 - Info	Processing Component: SolutionPluginAssemblies
+2022-02-03 01:02:31.761 - Info	Processing Component: EntityDataProviders
+2022-02-03 01:02:31.963 - Info	
+Unmanaged Pack complete.
+
